@@ -1,1 +1,1 @@
-# paradajz
+# paradaiz
