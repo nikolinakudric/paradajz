@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Spin-off of "Project: Travel webpage"</title>
+        <style>
+          h1{color:white;
+          background-color:blue; 
+          }
+          h2{color:white;}
+            #grad{background-color:blue; }
+    
+          h3{color:white; 
+              background-color:blue;
+          }
+          ol{color:blue;}
+          p { color:white;}
+          
+          html{background-color:black; }
+        </style>
+    </head>
+    <body>
+    
+        <h1>Putovanje u Berlin</h1>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Berlin_Montage_4.jpg"width="270" height="250" >
+    
+    <h2 id="grad">Berlin</h2>
+    <p> <em> <strong>Berlin je s više od 3,5 milijuna stanovnika najveći i glavni grad Njemačke i najveći grad Europske unije. Prije Drugog svjetskog rata imao je 4,5 milijuna stanovnika, a u vrijeme Hladnog rata od 1949. do 1990. bio je podijeljen na Istočni Berlin i Zapadni Berlin.Berlin je smješten na rijekama Šprevi i Havel na sjeveroistoku Njemačke.</strong> </em> </p>
+    
+    
+    
+    <h3><em>ZNAMENITOSTI</em></h3>
+    <ol>
+      <strong>  <li>Berlinska katedrala</li> </strong>
+    </ol>
+    
+    
+    <p> <em> <strong>Berlin je početkom 20. stoljeća dobio jednu od svojih najljepših znamenitosti, a cijelo područje koje je okružuje zasigurno je najljepši dio njemačke metropole.<br>
+    Berlinska katedrala najveća je gradska crkva i sjedište protestantske crkve u Njemačkoj. </strong> </em>
+    </p>
+    
+    
+    <ol>
+      <strong>  <li> Brandenburška vrata </li> </strong>
+    </ol>
+    
+    <p> <em> <strong>Najpoznatiji gradski simbol najbolji je svjedok burne njemačke, pa tako i berlinske povijesti.Gradnja je trajala 3 godine,od 1788-1791 godine.<br>Brandenburška vrata sastoje se od 12 dorskih stupova, šest sa svake strane, koja stvaraju pet prolaza u kojima se nalaze različiti reljefi. </strong> </em>
+        
+    </p>
+    
+    <ol>
+        <strong> <li>Zoološki vrt</li> </strong>
+    </ol>
+    <p> <em> <strong>Berlinski zoološki vrt  (njemački: Zoologischer Garten Berlin) jedan je od najvećih zooloških vrtova u Njemačkoj i najstariji. Nalazi se u centru Berlina, a zauzima površinu od 35 hektara. Najbogatiji je ZOO na svijetu s više od 19.000 životinja. Tijekom vremena, podijeljen je u dva djela: zoološki vrt i akvarij koji također ima dugu tradiciju.</strong> </em></p>
+    
+    </body>
+</html>
